@@ -1,4 +1,4 @@
-# Tafkeet-Pro
+# Tafkeet Pro
 Tafkeet pro convert Amounts to words in 2 languages Arabic and English.
 Supported currencies: USD, Euro, SAR and more.
 
