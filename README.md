@@ -1,4 +1,4 @@
-# Tafkeet Pro word2number - برنامج تفقيط المبالغ
+# Tafkeet Pro word2number 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 
